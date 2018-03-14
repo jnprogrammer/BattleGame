@@ -1,0 +1,10 @@
+C:\Users\jnprogrammer9\Documents\Projects\c#\BattleGame\BattleInput\BattleInput\bin\Debug\BattleInput.exe.config
+C:\Users\jnprogrammer9\Documents\Projects\c#\BattleGame\BattleInput\BattleInput\bin\Debug\BattleInput.exe
+C:\Users\jnprogrammer9\Documents\Projects\c#\BattleGame\BattleInput\BattleInput\bin\Debug\BattleInput.pdb
+C:\Users\jnprogrammer9\Documents\Projects\c#\BattleGame\BattleInput\BattleInput\obj\Debug\BattleInput.csprojResolveAssemblyReference.cache
+C:\Users\jnprogrammer9\Documents\Projects\c#\BattleGame\BattleInput\BattleInput\obj\Debug\BattleInput.Form1.resources
+C:\Users\jnprogrammer9\Documents\Projects\c#\BattleGame\BattleInput\BattleInput\obj\Debug\BattleInput.Properties.Resources.resources
+C:\Users\jnprogrammer9\Documents\Projects\c#\BattleGame\BattleInput\BattleInput\obj\Debug\BattleInput.csproj.GenerateResource.Cache
+C:\Users\jnprogrammer9\Documents\Projects\c#\BattleGame\BattleInput\BattleInput\obj\Debug\BattleInput.csproj.CoreCompileInputs.cache
+C:\Users\jnprogrammer9\Documents\Projects\c#\BattleGame\BattleInput\BattleInput\obj\Debug\BattleInput.exe
+C:\Users\jnprogrammer9\Documents\Projects\c#\BattleGame\BattleInput\BattleInput\obj\Debug\BattleInput.pdb

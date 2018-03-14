@@ -16,5 +16,10 @@ namespace BattleInput
         {
             InitializeComponent();
         }
+
+        private void txtYspeed_TextChanged(object sender, KeyPressEventArgs e)
+        {
+           
+        }
     }
 }
